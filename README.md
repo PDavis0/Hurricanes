@@ -1,5 +1,5 @@
 # Hurricanes
-Class creacts mock hurricanes and a class Manipulates and sifts through them.
+OOP example using Huricanes as a constructor and manipulation in a main class calling the constructor.
 
 
 Further things have been done that I did not want to share. Why? It was truly crappy design with lots of bugs.
